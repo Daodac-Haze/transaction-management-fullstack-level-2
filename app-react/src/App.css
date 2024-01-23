@@ -1,0 +1,29 @@
+.form-input-container {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  padding: 9px 0px;
+}
+.form-label {
+  text-align: left;
+}
+.form-submit-new-transaction {
+  width: max-content;
+}
+.error {
+  color: red;
+}
+.form-container {
+  width: max-content;
+  padding: 20px;
+  border: 1px solid black;
+}
+.page-container {
+  padding: 25px;
+  display: flex;
+}
+.transaction-item {
+  padding: 20px;
+  border: 1px solid black;
+  text-align: left;
+}
